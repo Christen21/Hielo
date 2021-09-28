@@ -1,0 +1,154 @@
+/* Start Main Rules */
+body {
+      margin-top: 0;
+      margin-bottom: 0;
+      background-color: #d6d6d6;
+     }
+
+.container {
+            background-color: #d6d6d6;
+           }
+
+hr {
+    color: #bebebe;
+    width: 45%;
+    border: 1px solid #bebebe;
+   }
+
+/* Start Carousel */
+.carousel .carousel-inner img {
+                               height: 100vh;
+                              }
+
+.carousel .carousel-inner .carousel-caption p {
+                                               margin-top: -40%;
+                                               color: #bebebe;
+                                               word-spacing: 0.4rem;
+                                               letter-spacing: 0.2rem;
+                                              }
+
+.carousel .carousel-inner .carousel-caption h1 {
+                                                font-size: 7rem;
+                                                word-spacing: 0.4rem;
+                                                font-weight: normal;
+                                               }
+
+.carousel .carousel-indicators li {
+                                    height: 12px;
+                                    width: 12px;
+                                    border-radius: 50%;  
+                                    margin-right: 1%;
+                                    margin-left: 1%;
+                                  }
+/* End Of Carousel */
+
+/* Start Cards */
+.cards {
+        margin-top: 8%;
+       }
+
+.cards .card {
+              width: 95%;
+              margin-left: 2.5%;
+              margin-right: 2.5%;
+             }
+
+.cards .card .card-body h6 {
+                            color: #908d8d;
+                            text-align: center;
+                            font-size: 0.9rem;
+                            font-weight: normal;
+                            letter-spacing: 0.2rem;
+                            }
+
+ .cards .card .card-body h3 {
+                             color: #636262;
+                             text-align: center;
+                             font-weight: normal;
+                            }   
+ 
+ .cards .card .card-body p {
+                            padding-top: 6%;
+                            color: #908d8d;
+                           }
+
+.cards .card .card-body a {
+                          margin-left: 35%;
+                          border: 2px solid #d6d6d6;
+                          margin-top: 4%;
+                          margin-bottom: 4%;
+                          }
+/* End Of Cards */
+
+/* Start Scroll */
+.scroll {
+         margin-top: 8%;
+         padding-top: 5%;
+         padding-bottom: 5%;
+         text-align: center;
+         background-image: url('../Images/bg.jpg');
+         background-attachment: fixed;
+        }
+
+.scroll p {
+          color: #908d8d;
+          }
+
+.scroll h3 {
+            color: #fff;
+           }           
+/* End Of Scroll */
+
+/* Start Normal */
+.normal {
+          margin-top: 8%;
+          text-align: center;
+         }
+
+.normal p {
+          color: #908d8d;
+          }
+
+.normal h3 {
+            color: #636262;
+           }           
+/* End Of Normal */
+
+/* Start Gallery */
+.gallery {
+          margin-top: 5%;
+         }
+
+.gallery img {
+              width: 98%;
+              margin-bottom: 10%;
+              border: 15px solid #fff;
+             }
+/* End Of Gallery */
+
+/* Start  Footer */
+.footer {
+        padding-top: 8%;
+        padding-bottom: 8%;
+        background-color: #000;
+        }
+.footer .icons {
+                padding-left: 43%;
+               }
+
+.footer .icons i {
+                  font-size: 1.8rem;
+                  margin-right: 2.8%;
+                  color: #636262;
+                 }
+
+.footer .icons i:hover {
+                        color: #fff;
+                       }
+
+.footer .copyright {
+                   text-align: center;
+                   padding-top: 2%;
+                   color: #636262;
+                  }
+/* End Of Footer */
